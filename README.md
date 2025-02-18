@@ -1,14 +1,14 @@
-<img src="https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-computer_3482-6985.jpg?w=1380" width="1080" height="400"/>
+<img src="https://github.com/iamSuva/iamSuva/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg"/>
 <h1 align="center">Hi 👋, I'm Suvadip Maiti</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://blog.emertxe.com/wp-content/uploads/2015/10/open_source_software_list.jpg" alt="open source " align="right" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsuva&label=Profile%20views&color=0e75b6&style=flat" alt="iamsuva" /> </p>
+<h3 align="center">A passionate FullStack Web Developer from India</h3>
+<!-- <img src="https://blog.emertxe.com/wp-content/uploads/2015/10/open_source_software_list.jpg" alt="open source " align="right" > -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsuva&label=Profile%20views&color=0e75b6&style=flat" alt="iamsuva" /> </p> -->
 
-- 🔭 I’m currently working on **as student .**
+- 🔭 I’m currently working as **SDE Intern.**
 
-- 🌱 I’m currently learning **DSA,JAVASCRIPT,REACT.js**
+- 🌱 I’m currently learning **Software Development**
 
-- 💬 Ask me about **DSA,javascript,React.js**
+- 💬 Ask me about **DSA,javascript,React.js,Nodejs,Express js,Mongodb,Typescript,PostgresSql**
 
 - 📫 How to reach me **suvadipm2002@gmail.com**
 
@@ -28,4 +28,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsuva&show_icons=true&locale=en" alt="iamsuva" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsuva&" alt="iamsuva" /></p>
