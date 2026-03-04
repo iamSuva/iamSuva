@@ -8,9 +8,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working as a **Software Developer**
-- 🌱 Continuously learning **Backend Engineering, FastAPI & Cloud Concepts**
+- 🌱 Continuously learning **Backend Engineering**, **Software Development**
 - 💬 Ask me about  
-  **HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, TypeScript, Python, FastAPI, Django, Docker, C++, DSA**
+  **HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, TypeScript, Python, FastAPI, Django, Docker, C++,Java, Data Structure Algorithm, System Design**
 - 📫 Reach me at **suvadipm2002@gmail.com**
 
 ---
@@ -61,6 +61,7 @@
 
 <!-- C++ -->
 <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
+<a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
 
 </p>
 
