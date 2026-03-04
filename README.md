@@ -1,4 +1,4 @@
-<img src="https://github.com/iamSuva/iamSuva/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg"/>
+<img src="https://github.com/iamSuva/iamSuva/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner%20(1).jpg"/>
 
 <h1 align="center">Hi 👋, I'm Suvadip Maiti</h1>
 <h3 align="center">A Passionate Full-Stack Web Developer from India 🚀</h3>
